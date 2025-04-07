@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hang!
 
-🎯 Aspiring Data Scientist / Data Analyst | Passionate about uncovering insights through data
+🎯 Data Scientist / Data Analyst | Passionate about uncovering insights through data
 
 📍 Los Angeles, CA  
 📧 Email: [hangw@usc.edu](mailto:hangw@usc.edu)  
