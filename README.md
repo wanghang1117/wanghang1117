@@ -5,7 +5,7 @@
 📍 Los Angeles, CA  
 📧 Email: [hangw@usc.edu](mailto:hangw@usc.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/hang-wang-/)  
-📊 GitHub: [@wanghang1117]
+📊 GitHub: [@wanghang1117](https://github.com/wanghang1117)
 
 ---
 
